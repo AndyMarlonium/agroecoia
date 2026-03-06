@@ -593,3 +593,5 @@ else:
 # Footer
 st.markdown("---")
 st.markdown("🌿 **Application de Fertilisation Agroécologique** - Données indicatives à adapter selon votre sol et vos observations.")
+# Ajout des noms des concepteurs
+st.markdown("Dr Andy Marlonium (034 39 644 17), Dr Hanta Rakotomaria")
